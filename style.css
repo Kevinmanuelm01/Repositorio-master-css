@@ -1,0 +1,59 @@
+/*#########SELECTORES##########*/
+
+
+/*SELECTOR UNIVERSAL*/
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+/*selector de etiqueta*/
+h1{
+    background-color: red;
+    color: white;
+    padding: 110px
+}
+
+
+a{
+
+font-size: 10px;
+text-decoration: none;
+color: green;
+
+}
+
+footer a{
+
+color: red;
+
+
+}
+
+/*selector de IDE*/
+#descripcion{
+border: 1px solid black;
+padding: 15px;
+
+}
+
+#titulo{
+background-color: blue;
+border: 2px dashed wheat;
+
+}
+
+/*selector de CLASE*/
+.parrafo{
+font-style: italic;
+text-decoration: underline;
+font-weight: bold;
+
+}
+
+
+
+ 
+/*selector de ATRIBUTO*/
+
